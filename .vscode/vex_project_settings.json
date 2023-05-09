@@ -1,0 +1,18 @@
+{
+	"extension": {
+		"version": "0.4.1",
+		"json": 1
+	},
+	"project": {
+		"name": "VEX_Robot",
+		"description": "Abstract Robot Class and Derived Drivetrains",
+		"creationDate": "07/04/2023, 12:32:48",
+		"platform": "V5",
+		"language": "cpp",
+		"slot": 1,
+		"sdkVersion": "V5_20220726_10_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	}
+}
